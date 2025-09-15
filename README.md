@@ -126,17 +126,15 @@ plt.show()
 
 ## SIMULATED ARMA(1,1) PROCESS:
 
-<img width="1244" height="658" alt="image" src="https://github.com/user-attachments/assets/98519f03-a5d9-4cd0-b043-c86e522bb6c6" />
+<img width="1375" height="344" alt="image" src="https://github.com/user-attachments/assets/7098acb3-50f9-4fcd-a7de-4791c4231d68" />
 
 ## Autocorrelation:
 
 <img width="1368" height="331" alt="image" src="https://github.com/user-attachments/assets/27228145-c7f3-4031-a801-4e9f17f7e257" />
 
-
 ## Partial Autocorrelation:
 
-<img width="1375" height="344" alt="image" src="https://github.com/user-attachments/assets/7098acb3-50f9-4fcd-a7de-4791c4231d68" />
-
+<img width="1244" height="658" alt="image" src="https://github.com/user-attachments/assets/98519f03-a5d9-4cd0-b043-c86e522bb6c6" />
 
 ## SIMULATED ARMA(2,2) PROCESS:
 
